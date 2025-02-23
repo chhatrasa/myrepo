@@ -1,7 +1,7 @@
 /* General Styles */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+    background-color: #ffa500; /* Orange Background */
     color: #333;
     margin: 0;
     padding: 0;
@@ -19,7 +19,7 @@ header {
 
 /* Navigation Bar */
 nav {
-    background-color: #F34F1C;
+    background-color: #0366d6;
     padding: 10px;
     text-align: center;
 }
